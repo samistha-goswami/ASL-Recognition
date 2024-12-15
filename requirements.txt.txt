@@ -10,5 +10,5 @@ mediapipe==0.8.9.1
 numpy==1.23.3
 pickle5==0.0.12
 streamlit==1.23.1
-
+opencv-python-headless
 
