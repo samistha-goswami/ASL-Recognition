@@ -5,3 +5,5 @@ numpy
 streamlit
 collections
 base64
+streamlit
+streamlit-option-menu
