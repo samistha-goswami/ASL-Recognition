@@ -1,5 +1,5 @@
-streamlit==1.41.1
 opencv-python-headless==4.5.5.64
-mediapipe
 numpy==1.23.0
-scikit-learn
+streamlit==1.41.1
+mediapipe==0.10.0
+pickle5==0.0.11
