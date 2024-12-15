@@ -1,0 +1,7 @@
+pickle
+cv2
+mediapipe
+numpy
+streamlit
+collections
+base64
