@@ -1,8 +1,0 @@
-pickle
-cv2
-mediapipe
-numpy
-collections
-base64
-streamlit
-streamlit-option-menu
