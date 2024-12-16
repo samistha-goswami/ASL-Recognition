@@ -1,7 +1,5 @@
-streamlit
-numpy
-opencv-python
-opencv-contrib-python
-pandas
-scikit-learn
-protobuf
+streamlit==1.25.0
+numpy==1.26.0
+opencv-python-headless==4.8.1.78
+mediapipe==0.10.4
+pickle-mixin==1.0.2
